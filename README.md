@@ -1,7 +1,7 @@
 ### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hello, I'm Pedro!
 
-💻 Senior Software Engineer and COO (https://easydados.com) <br>
-🏡 Brazilian, Based in Natal, RN - but most of the time traveling around the world 🌎
+💻 Senior Software Engineer and COO (https://petroleo.biz) <br>
+🏡 Brazilian, Based in Fortaleza, CE  🌎
 
 ### You can find me on
 
