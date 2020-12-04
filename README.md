@@ -1,7 +1,8 @@
 ### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hello, I'm Pedro!
 
-💻 Senior Software Engineer and COO (https://petroleo.biz) <br>
-🏡 Brazilian, Based in Fortaleza, CE  🌎
+💻 Consultant Software Architect GS Ciência do Consumo and COO (https://petroleo.biz) <br>
+🏡 Brazilian
+Based in Fortaleza, CE  🌎
 
 ### You can find me on
 
